@@ -1,0 +1,44 @@
+body {
+    background-image: url("moon.png");
+    font-family: 'Klee One', cursive;
+}
+
+article {
+    background-color: aliceblue;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+}
+h3 {
+    margin: 15px;
+    font-size: 35px;
+}
+.text-primary {
+    font-size: 20px;
+}
+
+#tint_body {
+    background-image: url("galaxy.png");
+    color: mintcream;
+}
+
+#tint_body input {
+    color: black;
+}
+
+#frame_body {
+    background-image:url("sunset.png") ;
+    background-size: cover;
+}
+
+#nature_body {
+    background-image: url("leaves.png");
+}
+
+#moustache_body {
+    background-image: url("doodle.jpg");
+}
+
+#unique_body {
+    background-image: url("cool-background\ \(2\).png");
+}
