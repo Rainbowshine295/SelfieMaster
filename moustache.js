@@ -23,7 +23,7 @@ function modelLoaded()  {
 function gotPoses(results) {
     if (results.length > 0) {
         console.log(results);
-        noseX = results[0].pose.nose.x -  30;
+        noseX = results[0].pose.nose.x;
         noseY = results[0].pose.nose.y;
         console.log("Nose X = " + results[0].pose.nose.x);
         console.log("Nose Y = " + results[0].pose.nose.y);
@@ -34,7 +34,7 @@ function gotPoses(results) {
 
 function draw() {
     image(video, 0,0,300,300);
-    image(moustache, noseX, noseY, 200, 50);
+    image(moustache, noseX, noseY, 100, 50);
     
 }
 function take_snapshot() {
