@@ -19,6 +19,7 @@ h3 {
 
 #tint_body {
     background-image: url("galaxy.png");
+    color: mintcream;
 }
 
 #tint_body input {
@@ -28,7 +29,7 @@ h3 {
 #frame_body {
     background-image:url("sunset.png") ;
     background-size: cover;
-    color : mintcream;
+    color: mintcream;
 }
 
 #nature_body {
