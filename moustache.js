@@ -5,10 +5,10 @@ function preload() {
 moustache = loadImage("https://i.postimg.cc/g2jSyyVk/moustache.png");
 }
 function setup() {
-    canvas = createCanvas(300,300);
+    canvas = createCanvas(300,500);
     canvas.center();
     video = createCapture(VIDEO);
-    video.size(300,300);
+    video.size(300,500);
     video.hide();
 
     poseNet = ml5.poseNet(video, modelLoaded);
@@ -33,10 +33,10 @@ function gotPoses(results) {
 
 
 function draw() {
-    image(video, 0,0,300,300);
+    image(video, 0,0,300,500);
     image(moustache, noseX, noseY, 150, 50);
     
 }
 function take_snapshot() {
-    save('Moustache Selfie by RainbowZap.png');
+    save('Moustache Selfie by Rainbowshine.png');
 }

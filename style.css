@@ -26,6 +26,15 @@ h3 {
     color: black;
 }
 
+#monday_body {
+    background-image: url("montains.png");
+    background-size: cover;
+}
+
+#hbd_body {
+    background-image: url("flowers.png");
+}
+
 #frame_body {
     background-image:url("sunset.png") ;
     background-size: cover;
