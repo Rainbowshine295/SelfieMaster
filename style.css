@@ -1,5 +1,6 @@
 body {
-    background-image: url("moon.png");
+    background-image: url("main\ bg.png");
+    background-size: cover;
     font-family: 'Klee One', cursive;
 }
 
@@ -17,8 +18,22 @@ h3 {
     font-size: 20px;
 }
 
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.rainbow_img {
+    float: right;
+}
+
 #tint_body {
-    background-image: url("galaxy.png");
+    background-image: url("colour\ bg.png");
     color: mintcream;
 }
 
@@ -27,28 +42,29 @@ h3 {
 }
 
 #monday_body {
-    background-image: url("montains.png");
-    background-size: cover;
+    background-image: url("monday\ bg.png");
+}
+
+#friday_body {
+    background-image: url("friday\ bg.png");
 }
 
 #hbd_body {
-    background-image: url("flowers.png");
+    background-image: url("hbd\ background.png");
 }
 
 #frame_body {
-    background-image:url("sunset.png") ;
-    background-size: cover;
-    color: mintcream;
+    background-image:url("frame\ bg.png");
 }
 
 #nature_body {
-    background-image: url("leaves.png");
+    background-image: url("nature\ bg.png");
 }
 
 #moustache_body {
-    background-image: url("doodle.jpg");
+    background-image: url("moustache\ bg.png");
 }
 
 #unique_body {
-    background-image: url("cool-background\ \(2\).png");
+    background-image: url("flower\ frame\ bg.jpg");
 }
