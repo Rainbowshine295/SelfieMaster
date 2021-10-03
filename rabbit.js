@@ -1,5 +1,5 @@
-leftEarX = 0;
-rightEarY = 0;
+leftEyeX = 0;
+leftEyeY = 0;
 
 function preload() {
 ears = loadImage("rabbit ears.png");
@@ -23,10 +23,10 @@ function modelLoaded()  {
 function gotPoses(results) {
     if (results.length > 0) {
         console.log(results);
-        leftEarX = results[0].pose.leftEar.x;
-        rightEarY = results[0].pose.rightEar.y;
-        console.log("Left ear X = " + results[0].pose.leftEar.x);
-        console.log("Right ear Y = " + results[0].pose.rightEar.y);
+        leftEyeX = results[0].pose.leftEye.x;
+        leftEyeY = results[0].pose.leftEye.y;
+        console.log("Left ear X = " + results[0].pose.leftEye.x);
+        console.log("Right ear Y = " + results[0].pose.leftEye.y);
     }
 }
 
@@ -34,7 +34,7 @@ function gotPoses(results) {
 
 function draw() {
     image(video, 0,0,300,500);
-    image(ears, leftEarX, rightEarY, 150, 120);
+    image(ears, leftEyeX, leftEyeY, 150, 120);
     
 }
 function take_snapshot() {
