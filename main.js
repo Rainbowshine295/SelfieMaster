@@ -35,5 +35,5 @@ function weekend() {
 }
 
 function rabbit() {
-    window.location = "Rabbit Selfie.html"
+    window.location = "Sunglasses selfie.html"
 }
