@@ -33,3 +33,7 @@ function hbd() {
 function weekend() {
     window.location = "Friday Selfie.html"
 }
+
+function rabbit() {
+    window.location = "Rabbit Selfie.html"
+}
