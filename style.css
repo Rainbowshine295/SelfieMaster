@@ -1,5 +1,4 @@
 body {
-    background-image: url("main\ bg.png");
     background-size: cover;
     font-family: 'Klee One', cursive;
 }
@@ -26,49 +25,4 @@ h3 {
 {
     text-align: left;
     font-size: 20px;
-}
-
-.rainbow_img {
-    float: right;
-}
-
-#tint_body {
-    background-image: url("colour\ bg.png");
-    color: mintcream;
-}
-
-#tint_body input {
-    color: black;
-}
-
-#monday_body {
-    background-image: url("monday\ bg.png");
-}
-
-#sunglasses_body {
-    background-image: url("sunglasses\ bg.png");
-}
-
-#friday_body {
-    background-image: url("friday\ bg.png");
-}
-
-#hbd_body {
-    background-image: url("hbd\ background.png");
-}
-
-#frame_body {
-    background-image:url("frame\ bg.png");
-}
-
-#nature_body {
-    background-image: url("nature\ bg.png");
-}
-
-#moustache_body {
-    background-image: url("moustache\ bg.png");
-}
-
-#unique_body {
-    background-image: url("flower\ frame\ bg.jpg");
 }

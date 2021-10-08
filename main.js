@@ -18,8 +18,8 @@ function nature() {
     window.location = "Nature Selfie.html"
 }
 
-function unique() {
-    window.location = "Unique Selfie.html"
+function flowerframe() {
+    window.location = "Flower Frame.html"
 }
 
 function hand() {
@@ -34,6 +34,9 @@ function weekend() {
     window.location = "Friday Selfie.html"
 }
 
-function rabbit() {
+function sunglasses() {
     window.location = "Sunglasses selfie.html"
+}
+function ghost() {
+    window.location = "Ghost Selfie.html"
 }
