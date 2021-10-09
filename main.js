@@ -40,3 +40,7 @@ function sunglasses() {
 function ghost() {
     window.location = "Ghost Selfie.html"
 }
+
+function emoji() {
+    window.location = "Emoji Selfie.html"
+}
