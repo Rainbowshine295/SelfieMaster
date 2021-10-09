@@ -14,15 +14,15 @@ SelfieMaster has 11 filters. They are as follows-
 11. Emoji Frame Selfie
 
 Every page's background pony is-
-Main page- Big Mac
-Tint Selfie- Twilight Sparkle
-Nature Selfie- Lyra Heartstrings
-Moustache Selfie- Scootaloo
-Frame Selfie- Sunset Shimmer
-Flower Frame Selfie- Fluttershy
-Monday Blues Selfie- Trixie
-Happy Birthday to Me Selfie- Pinkie Pie
-Friday Selfie- Rainbow Dash
-Sunglasses Selfie- Coco Pommel
-Ghost Filter- Soarin
-Emoji Frame Selfie- Somnambula
+Main page- Big Mac;
+Tint Selfie- Twilight Sparkle;
+Nature Selfie- Lyra Heartstrings;
+Moustache Selfie- Scootaloo;
+Frame Selfie- Sunset Shimmer;
+Flower Frame Selfie- Fluttershy;
+Monday Blues Selfie- Trixie;
+Happy Birthday to Me Selfie- Pinkie Pie;
+Friday Selfie- Rainbow Dash;
+Sunglasses Selfie- Coco Pommel;
+Ghost Filter- Soarin;
+Emoji Frame Selfie- Somnambula;
