@@ -1,5 +1,6 @@
 function preload() {
-    flower_frame = loadImage('https://i.postimg.cc/dtLysPnb/flower-frame.png');
+    blood_img = loadImage('blood.png');
+    blood_img2 = loadImage('blood 2.png');
 }
 
 function setup() {
@@ -13,8 +14,10 @@ function setup() {
 
 function draw() {
     image(video, 0,0,300,500);
-    image(flower_frame, 0, 0, 300,500);
+    image(blood_img, -20, 0, 400, 100);
+    image(blood_img2, 50, 400, 150, 55);
+    image(blood_img2, 90, 200, 150, 55);
 }
 function take_snapshot() {
-    save('Flower frame Selfie by Rainbowshine.png');
+    save('Fake Blood Selfie by Rainbowshine.png');
 }
