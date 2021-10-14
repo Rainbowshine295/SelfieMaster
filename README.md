@@ -1,6 +1,6 @@
 Information about SelfieMaster
 
-SelfieMaster has 11 filters. They are as follows-
+SelfieMaster has 12 filters. They are as follows-
 1. Tint Selfie
 2. Nature Selfie
 3. Moustache Selfie
@@ -12,6 +12,7 @@ SelfieMaster has 11 filters. They are as follows-
 9. Sunglasses Selfie
 10. Ghost Filter
 11. Emoji Frame Selfie
+12. Fake Blood Selfie
 
 Every page's background pony is-
 Main page- Big Mac;
@@ -26,3 +27,4 @@ Friday Selfie- Rainbow Dash;
 Sunglasses Selfie- Coco Pommel;
 Ghost Filter- Soarin;
 Emoji Frame Selfie- Somnambula;
+Fake Blood Selfie- Autumn Blaze (Kirin and Nirik);
