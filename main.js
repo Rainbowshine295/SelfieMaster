@@ -44,7 +44,3 @@ function ghost() {
 function emoji() {
     window.location = "Emoji Selfie.html"
 }
-
-function blood() {
-    window.location = "Blood Selfie.html"
-}
